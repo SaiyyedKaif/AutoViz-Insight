@@ -1,8 +1,8 @@
 # AutoViz-Insight
 
-[![GitHub stars](https://img.shields.io/github/stars/yashtapre77/AutoViz-Insight.svg)](https://github.com/yashtapre77/AutoViz-Insight/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yashtapre77/AutoViz-Insight.svg)](https://github.com/yashtapre77/AutoViz-Insight/network)
-[![GitHub issues](https://img.shields.io/github/issues/yashtapre77/AutoViz-Insight.svg)](https://github.com/yashtapre77/AutoViz-Insight/issues)
+[![GitHub stars](https://img.shields.io/github/stars/SaiyyedKaif/AutoViz-Insight.svg)](https://github.com/SaiyyedKaif/AutoViz-Insight/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/SaiyyedKaif/AutoViz-Insight.svg)](https://github.com/SaiyyedKaif/AutoViz-Insight/network)
+[![GitHub issues](https://img.shields.io/github/issues/SaiyyedKaif/AutoViz-Insight.svg)](https://github.com/SaiyyedKaif/AutoViz-Insight/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > 🚀 **Automated Data Visualization & Insights Generation Platform**
@@ -76,7 +76,7 @@ AutoViz-Insight bridges the gap between complex data analysis and user-friendly 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yashtapre77/AutoViz-Insight.git
+   git clone https://github.com/SaiyyedKaif/AutoViz-Insight.git
    cd AutoViz-Insight
    ```
 
