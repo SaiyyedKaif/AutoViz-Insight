@@ -1,0 +1,5 @@
+{
+  "name": "AutoViz-Insight",
+  "description": "An intelligent data visualization platform that automatically analyzes uploaded datasets to generate interactive charts, statistical insights, and shareable dashboards using Gemini AI.",
+  "requestFramePermissions": []
+}
